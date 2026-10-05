@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creaciones Solo Punto | Catálogo de telas</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header class="encabezado">
+        <div class="contenedor">
+            <h1>Creaciones Solo Punto</h1>
+            <p>Catálogo de telas</p>
+        </div>
+    </header>
+
+    <main class="contenedor">
+
+        <section class="presentacion">
+            <h2>Telas disponibles</h2>
+            <p>Selecciona una tela para verla en tamaño grande.</p>
+        </section>
+
+        <div class="buscador">
+            <input
+                id="buscador"
+                type="search"
+                placeholder="Buscar por nombre o código"
+                autocomplete="off"
+                aria-label="Buscar telas"
+            >
+        </div>
+
+        <nav id="filtros" class="filtros" aria-label="Categorías"></nav>
+
+        <section id="catalogo" class="catalogo"></section>
+
+        <p id="vacio" class="vacio" hidden></p>
+
+    </main>
+
+    <div id="visor" class="visor" hidden>
+        <button class="visor-cerrar" type="button">Cerrar</button>
+        <figure>
+            <img id="visor-img" src="" alt="">
+            <figcaption>
+                <div>
+                    <span id="visor-nombre"></span>
+                    <em id="visor-codigo"></em>
+                </div>
+                <small id="visor-categoria"></small>
+            </figcaption>
+        </figure>
+    </div>
+
+    <footer class="pie">
+        <div class="contenedor">
+            <p>Creaciones Solo Punto</p>
+            <p>Catálogo de telas</p>
+        </div>
+    </footer>
+
+    <script src="telas.js"></script>
+
+</body>
+</html>
