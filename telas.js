@@ -1,20 +1,47 @@
 const telasPorCategoria = {
     nina: [
-        { nombre: "Bluey",        codigo: "CS-001", archivo: "Bluey-01.jpeg" },
-        { nombre: "Cinnamoroll",  codigo: "CS-002", archivo: "Cinnamon-01.jpeg" },
-        { nombre: "Flores",       codigo: "CS-003", archivo: "Flores-01.jpeg" },
-        { nombre: "Mariquitas",   codigo: "CS-004", archivo: "Flores-02.jpeg" },
-        { nombre: "Conejitos",    codigo: "CS-005", archivo: "Flores-03.jpeg" },
-        { nombre: "Hello Kitty",  codigo: "CS-006", archivo: "HelloKitty-01.jpeg" },
-        { nombre: "Minnie",       codigo: "CS-007", archivo: "Minnie-01.jpeg" },
-        { nombre: "Minnie",       codigo: "CS-008", archivo: "Minnie-02.jpeg" },
-        { nombre: "Minnie",       codigo: "CS-009", archivo: "Minnie-03.jpeg" },
-        { nombre: "Princesas",    codigo: "CS-010", archivo: "Princesas-01.jpeg" },
-        { nombre: "Sirena",       codigo: "CS-011", archivo: "Sirena-01.jpeg" },
-        { nombre: "Winnie Pooh",  codigo: "CS-012", archivo: "WinniePooh-01.jpeg" }
+        { nombre: "Bluey",          codigo: "M-001", archivo: "Bluey-01.jpeg" },
+        { nombre: "Cinnamoroll",    codigo: "M-002", archivo: "Cinnamon-01.jpeg" },
+        { nombre: "Flores",         codigo: "M-003", archivo: "Flores-01.jpeg" },
+        { nombre: "Mariquitas",     codigo: "M-004", archivo: "Flores-02.jpeg" },
+        { nombre: "Conejitos",      codigo: "M-005", archivo: "Flores-03.jpeg" },
+        { nombre: "Hello Kitty",    codigo: "M-006", archivo: "HelloKitty-01.jpeg" },
+        { nombre: "Minnie Mouse",   codigo: "M-007", archivo: "Minnie-01.jpeg" },
+        { nombre: "Minnie Mouse",   codigo: "M-008", archivo: "Minnie-02.jpeg" },
+        { nombre: "Minnie Mouse",   codigo: "M-009", archivo: "Minnie-03.jpeg" },
+        { nombre: "Princesas",      codigo: "M-010", archivo: "Princesas-01.jpeg" },
+        { nombre: "Ariel",          codigo: "M-011", archivo: "Sirena-01.jpeg" },
+        { nombre: "Winnie Pooh",    codigo: "M-012", archivo: "WinniePooh-01.jpeg" },
+        { nombre: "Bluey",          codigo: "M-013", archivo: "Bluey 02.jpeg" },
+        { nombre: "Flores",         codigo: "M-014", archivo: "Flores 04.jpeg" },
+        { nombre: "Ariel",          codigo: "M-015", archivo: "Ariel 01.jpeg" },
+        { nombre: "K-Pop",          codigo: "M-016", archivo: "Kpop 01.jpeg" },
+        { nombre: "Masha y el Oso", codigo: "M-017", archivo: "Masha y el Oso 01.jpeg" }
     ],
+
     nino: [
+        { nombre: "Dinosaurios",    codigo: "H-001", archivo: "Dino 01.jpeg" },
+        { nombre: "Animalitos",     codigo: "H-002", archivo: "Animalitos 01.jpeg" },
+        { nombre: "Mickey Mouse",   codigo: "H-003", archivo: "Mickey 01.jpeg" },
+        { nombre: "Fútbol",         codigo: "H-004", archivo: "Liga.jpeg" },
+        { nombre: "Cars",           codigo: "H-005", archivo: "Cars 01.jpeg" },
+        { nombre: "Pollitos",       codigo: "H-006", archivo: "Pollitos 01.jpeg" },
+        { nombre: "Mickey Mouse",   codigo: "H-007", archivo: "Mickey 02.jpeg" },
+        { nombre: "Goku",           codigo: "H-008", archivo: "Goku 01.jpeg" },
+        { nombre: "Mickey Mouse",   codigo: "H-009", archivo: "Mickey 04.jpeg" },
+        { nombre: "Mario Bros",     codigo: "H-010", archivo: "Mario 02.jpeg" },
+        { nombre: "Blaze",          codigo: "H-011", archivo: "Blaze 01.jpeg" },
+        { nombre: "Mario Bros",     codigo: "H-012", archivo: "Mario 01.jpeg" },
+        { nombre: "Sonic",          codigo: "H-013", archivo: "Sonic 01.jpeg" },
+        { nombre: "Pokémon",        codigo: "H-014", archivo: "Pokemon 01.jpeg" },
+        { nombre: "Dinosaurios",    codigo: "H-015", archivo: "Dino 03.jpeg" },
+        { nombre: "Dinosaurios",    codigo: "H-016", archivo: "Dino 02.jpeg" },
+        { nombre: "Plim Plim",      codigo: "H-017", archivo: "Plim Plim 01.jpeg" },
+        { nombre: "Mickey Mouse",   codigo: "H-018", archivo: "Mickey 03.jpeg" },
+        { nombre: "Cars",           codigo: "H-019", archivo: "Cars 02.jpeg" },
+        { nombre: "Paw Patrol",     codigo: "H-020", archivo: "Paw Patrol 01.jpeg" }
     ],
+
     navidad: [
     ]
 };
