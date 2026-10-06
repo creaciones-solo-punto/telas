@@ -12,11 +12,10 @@ const telasPorCategoria = {
         { nombre: "Princesas",      codigo: "M-010", archivo: "Princesas-01.jpeg" },
         { nombre: "Ariel",          codigo: "M-011", archivo: "Sirena-01.jpeg" },
         { nombre: "Winnie Pooh",    codigo: "M-012", archivo: "WinniePooh-01.jpeg" },
-        { nombre: "Bluey",          codigo: "M-013", archivo: "Bluey 02.jpeg" },
-        { nombre: "Flores",         codigo: "M-014", archivo: "Flores 04.jpeg" },
-        { nombre: "Ariel",          codigo: "M-015", archivo: "Ariel 01.jpeg" },
-        { nombre: "Guerreras K-Pop",          codigo: "M-016", archivo: "Kpop 01.jpeg" },
-        { nombre: "Masha y el Oso", codigo: "M-017", archivo: "Masha y el Oso 01.jpeg" }
+        { nombre: "Flores",         codigo: "M-013", archivo: "Flores 04.jpeg" },
+        { nombre: "Ariel",          codigo: "M-014", archivo: "Ariel 01.jpeg" },
+        { nombre: "Guerreras K-Pop",          codigo: "M-015", archivo: "Kpop 01.jpeg" },
+        { nombre: "Masha y el Oso", codigo: "M-016", archivo: "Masha y el Oso 01.jpeg" }
     ],
 
     nino: [
@@ -39,7 +38,8 @@ const telasPorCategoria = {
         { nombre: "Plim Plim",      codigo: "H-017", archivo: "Plim Plim 01.jpeg" },
         { nombre: "Mickey Mouse",   codigo: "H-018", archivo: "Mickey 03.jpeg" },
         { nombre: "Cars",           codigo: "H-019", archivo: "Cars 02.jpeg" },
-        { nombre: "Paw Patrol",     codigo: "H-020", archivo: "Paw Patrol 01.jpeg" }
+        { nombre: "Bluey",          codigo: "H-020", archivo: "Bluey 02.jpeg" },
+        { nombre: "Paw Patrol",     codigo: "H-021", archivo: "Paw Patrol 01.jpeg" }
     ],
 
     navidad: [
