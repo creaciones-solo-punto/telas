@@ -59,6 +59,30 @@ body {
     color: #5f8497;
 }
 
+.encabezado-fila {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.logo-marco {
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    overflow: hidden;
+    background: var(--superficie);
+    border: 3px solid var(--rosa);
+}
+
+.logo-marco img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
 .presentacion {
     padding: 32px 0 20px;
 }
@@ -323,6 +347,8 @@ body {
 
     .encabezado { padding: 34px 0 30px; }
     .encabezado h1 { font-size: 36px; }
+
+    .logo-marco { width: 84px; height: 84px; }
 
     .presentacion { padding: 42px 0 24px; }
     .presentacion h2 { font-size: 27px; }
