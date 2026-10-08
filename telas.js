@@ -25,7 +25,8 @@ const telasPorCategoria = {
         { nombre: "Mariposas", codigo: "M-024", archivo: "Mariposas-02.jpeg" },
         { nombre: "Peppa Pig", codigo: "M-025", archivo: "Peppa-01.jpeg" },
         { nombre: "Flores", codigo: "M-026", archivo: "Flores-05.jpeg" },
-        { nombre: "Kuromi", codigo: "M-027", archivo: "Kuromi-01.jpeg" }
+        { nombre: "Kuromi", codigo: "M-027", archivo: "Kuromi-01.jpeg" },
+        { nombre: "Stitch",         codigo: "M-028", archivo: "Stitch-02.jpeg" }
     ],
 
     nino: [
@@ -56,8 +57,7 @@ const telasPorCategoria = {
         { nombre: "Mario Bros",     codigo: "H-025", archivo: "Mario Bros-03.jpeg" },
         { nombre: "Paw Patrol",     codigo: "H-026", archivo: "Paw Patrol-03.jpeg" },
         { nombre: "Minecraft",      codigo: "H-027", archivo: "Minecraft-02.jpeg" },
-        { nombre: "Minecraft",      codigo: "H-028", archivo: "Minecraft-01.jpeg" },
-        { nombre: "Stitch",         codigo: "H-029", archivo: "Stitch-02.jpeg" }
+        { nombre: "Minecraft",      codigo: "H-028", archivo: "Minecraft-01.jpeg" }
     ],
 
     navidad: [
