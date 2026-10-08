@@ -17,7 +17,15 @@ const telasPorCategoria = {
         { nombre: "Masha y el Oso", codigo: "M-016", archivo: "Masha y el Oso 01.jpeg" },
         { nombre: "Minnie Mouse", codigo: "M-017", archivo: "Minnie-04.jpeg" },
         { nombre: "Mariposas", codigo: "M-018", archivo: "Mariposas-01.jpeg" },
-        { nombre: "Gatitos", codigo: "M-019", archivo: "Gatitos-01.jpeg" }
+        { nombre: "Gatitos", codigo: "M-019", archivo: "Gatitos-01.jpeg" },
+        { nombre: "Minnie Mouse", codigo: "M-020", archivo: "Minnie-05.jpeg" },
+        { nombre: "Kuromi", codigo: "M-021", archivo: "Kuromi-03.jpeg" },
+        { nombre: "Tinkerbell", codigo: "M-022", archivo: "Tinkerbell-01.jpeg" },
+        { nombre: "Kuromi", codigo: "M-023", archivo: "Kuromi-02.jpeg" },
+        { nombre: "Mariposas", codigo: "M-024", archivo: "Mariposas-02.jpeg" },
+        { nombre: "Peppa Pig", codigo: "M-025", archivo: "Peppa-01.jpeg" },
+        { nombre: "Flores", codigo: "M-026", archivo: "Flores-05.jpeg" },
+        { nombre: "Kuromi", codigo: "M-027", archivo: "Kuromi-01.jpeg" }
     ],
 
     nino: [
@@ -41,7 +49,15 @@ const telasPorCategoria = {
         { nombre: "Mickey Mouse",   codigo: "H-018", archivo: "Mickey 03.jpeg" },
         { nombre: "Cars",           codigo: "H-019", archivo: "Cars 02.jpeg" },
         { nombre: "Bluey",          codigo: "H-020", archivo: "Bluey 02.jpeg" },
-        { nombre: "Paw Patrol",     codigo: "H-021", archivo: "Paw Patrol 01.jpeg" }
+        { nombre: "Paw Patrol",     codigo: "H-021", archivo: "Paw Patrol 01.jpeg" },
+        { nombre: "Bob Esponja",    codigo: "H-022", archivo: "Bob Esponja-01.jpeg" },
+        { nombre: "Cars",           codigo: "H-023", archivo: "Cars-03.jpeg" },
+        { nombre: "Minecraft",      codigo: "H-024", archivo: "Minecraft-03.jpeg" },
+        { nombre: "Mario Bros",     codigo: "H-025", archivo: "Mario Bros-03.jpeg" },
+        { nombre: "Paw Patrol",     codigo: "H-026", archivo: "Paw Patrol-03.jpeg" },
+        { nombre: "Minecraft",      codigo: "H-027", archivo: "Minecraft-02.jpeg" },
+        { nombre: "Minecraft",      codigo: "H-028", archivo: "Minecraft-01.jpeg" },
+        { nombre: "Stitch",         codigo: "H-029", archivo: "Stitch-02.jpeg" }
     ],
 
     navidad: [
