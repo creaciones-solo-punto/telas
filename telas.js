@@ -177,10 +177,9 @@ function mostrarTelas() {
         `;
 
         const img = tarjeta.querySelector("img");
-        const ruta = encodeURI(tela.imagen);   // maneja espacios y la ñ
+        const ruta = encodeURI(tela.imagen);  
         let intentos = 0;
 
-        // Si falla la carga, reintenta hasta 3 veces con una pequeña pausa
         img.addEventListener("error", () => {
             if (intentos < 3) {
                 intentos++;
