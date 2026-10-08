@@ -67,7 +67,7 @@ body {
 }
 
 .logo-marco {
-    height: 64px;
+    height: 80px;
     flex-shrink: 0;
     border-radius: 12px;
     overflow: hidden;
@@ -78,7 +78,7 @@ body {
 .logo-marco img {
     height: 100%;
     width: auto;
-    max-width: 160px;
+    max-width: 200px;
     display: block;
     object-fit: contain;
 }
@@ -348,8 +348,8 @@ body {
     .encabezado { padding: 34px 0 30px; }
     .encabezado h1 { font-size: 36px; }
 
-    .logo-marco { height: 84px; }
-    .logo-marco img { max-width: 220px; }
+    .logo-marco { height: 104px; }
+    .logo-marco img { max-width: 260px; }
 
     .presentacion { padding: 42px 0 24px; }
     .presentacion h2 { font-size: 27px; }
