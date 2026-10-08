@@ -52,7 +52,7 @@ const telasPorCategoria = {
         { nombre: "HoHoHo",         codigo: "N-005", archivo: "HoHo-01.jpeg" },
         { nombre: "Mickey Mouse",   codigo: "N-006", archivo: "Mickey Navidad-01.jpeg" },
         { nombre: "Muñeco de Nieve",  codigo: "N-007", archivo: "Muñeco de Nieve-01.jpeg" },
-        { nombre: "Paw Patrol", codigo: "N-008", archivo: "Paw Patrol-01.jpeg" },
+        { nombre: "Paw Patrol", codigo: "N-008", archivo: "Paw Patrol-02.jpeg" },
         { nombre: "Renos",            codigo: "N-009", archivo: "Renos-01.jpeg" },
         { nombre: "Stitch",   codigo: "N-010", archivo: "Stitch-01.jpeg" }
     ]
