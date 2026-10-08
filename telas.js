@@ -14,7 +14,10 @@ const telasPorCategoria = {
         { nombre: "Flores",         codigo: "M-013", archivo: "Flores 04.jpeg" },
         { nombre: "Ariel",          codigo: "M-014", archivo: "Ariel 01.jpeg" },
         { nombre: "Guerreras K-Pop",          codigo: "M-015", archivo: "Kpop 01.jpeg" },
-        { nombre: "Masha y el Oso", codigo: "M-016", archivo: "Masha y el Oso 01.jpeg" }
+        { nombre: "Masha y el Oso", codigo: "M-016", archivo: "Masha y el Oso 01.jpeg" },
+        { nombre: "Minnie Mouse", codigo: "M-017", archivo: "Minnie-04.jpeg" },
+        { nombre: "Mariposas", codigo: "M-018", archivo: "Mariposas-01.jpeg" },
+        { nombre: "Gatitos", codigo: "M-019", archivo: "Gatitos-01.jpeg" }
     ],
 
     nino: [
