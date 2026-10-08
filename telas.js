@@ -4,28 +4,28 @@ const telasPorCategoria = {
         { nombre: "Cinnamoroll",    codigo: "M-002", archivo: "Cinnamon-01.jpeg" },
         { nombre: "Flores",         codigo: "M-003", archivo: "Flores-01.jpeg" },
         { nombre: "Mariquitas",     codigo: "M-004", archivo: "Flores-02.jpeg" },
-        { nombre: "Animalitos",      codigo: "M-005", archivo: "Flores-03.jpeg" },
+        { nombre: "Animalitos",     codigo: "M-005", archivo: "Flores-03.jpeg" },
         { nombre: "Hello Kitty",    codigo: "M-006", archivo: "HelloKitty-01.jpeg" },
         { nombre: "Minnie Mouse",   codigo: "M-008", archivo: "Minnie-02.jpeg" },
         { nombre: "Minnie Mouse",   codigo: "M-009", archivo: "Minnie-03.jpeg" },
         { nombre: "Princesas",      codigo: "M-010", archivo: "Princesas-01.jpeg" },
-        { nombre: "Sirena",          codigo: "M-011", archivo: "Sirena-01.jpeg" },
+        { nombre: "Sirena",         codigo: "M-011", archivo: "Sirena-01.jpeg" },
         { nombre: "Winnie Pooh",    codigo: "M-012", archivo: "WinniePooh-01.jpeg" },
         { nombre: "Flores",         codigo: "M-013", archivo: "Flores 04.jpeg" },
         { nombre: "Ariel",          codigo: "M-014", archivo: "Ariel 01.jpeg" },
-        { nombre: "Guerreras K-Pop",          codigo: "M-015", archivo: "Kpop 01.jpeg" },
+        { nombre: "Guerreras K-Pop", codigo: "M-015", archivo: "Kpop 01.jpeg" },
         { nombre: "Masha y el Oso", codigo: "M-016", archivo: "Masha y el Oso 01.jpeg" },
-        { nombre: "Minnie Mouse", codigo: "M-017", archivo: "Minnie-04.jpeg" },
-        { nombre: "Mariposas", codigo: "M-018", archivo: "Mariposas-01.jpeg" },
-        { nombre: "Gatitos", codigo: "M-019", archivo: "Gatitos-01.jpeg" },
-        { nombre: "Minnie Mouse", codigo: "M-020", archivo: "Minnie-05.jpeg" },
-        { nombre: "Kuromi", codigo: "M-021", archivo: "Kuromi-03.jpeg" },
-        { nombre: "Tinkerbell", codigo: "M-022", archivo: "Tinkerbell-01.jpeg" },
-        { nombre: "Kuromi", codigo: "M-023", archivo: "Kuromi-02.jpeg" },
-        { nombre: "Mariposas", codigo: "M-024", archivo: "Mariposas-02.jpeg" },
-        { nombre: "Peppa Pig", codigo: "M-025", archivo: "Peppa-01.jpeg" },
-        { nombre: "Flores", codigo: "M-026", archivo: "Flores-05.jpeg" },
-        { nombre: "Kuromi", codigo: "M-027", archivo: "Kuromi-01.jpeg" },
+        { nombre: "Minnie Mouse",   codigo: "M-017", archivo: "Minnie-04.jpeg" },
+        { nombre: "Mariposas",      codigo: "M-018", archivo: "Mariposas-01.jpeg" },
+        { nombre: "Gatitos",        codigo: "M-019", archivo: "Gatitos-01.jpeg" },
+        { nombre: "Minnie Mouse",   codigo: "M-020", archivo: "Minnie-05.jpeg" },
+        { nombre: "Kuromi",         codigo: "M-021", archivo: "Kuromi-03.jpeg" },
+        { nombre: "Tinkerbell",     codigo: "M-022", archivo: "Tinkerbell-01.jpeg" },
+        { nombre: "Kuromi",         codigo: "M-023", archivo: "Kuromi-02.jpeg" },
+        { nombre: "Mariposas",      codigo: "M-024", archivo: "Mariposas-02.jpeg" },
+        { nombre: "Peppa Pig",      codigo: "M-025", archivo: "Peppa-01.jpeg" },
+        { nombre: "Flores",         codigo: "M-026", archivo: "Flores-05.jpeg" },
+        { nombre: "Kuromi",         codigo: "M-027", archivo: "Kuromi-01.jpeg" },
         { nombre: "Stitch",         codigo: "M-028", archivo: "Stitch-02.jpeg" }
     ],
 
@@ -33,11 +33,11 @@ const telasPorCategoria = {
         { nombre: "Dinosaurios",    codigo: "H-001", archivo: "Dino 01.jpeg" },
         { nombre: "Animalitos",     codigo: "H-002", archivo: "Animalitos 01.jpeg" },
         { nombre: "Mickey Mouse",   codigo: "H-003", archivo: "Mickey 01.jpeg" },
-        { nombre: "Liga Alajuelense",         codigo: "H-004", archivo: "Liga.jpeg" },
+        { nombre: "Liga Alajuelense", codigo: "H-004", archivo: "Liga.jpeg" },
         { nombre: "Cars",           codigo: "H-005", archivo: "Cars 01.jpeg" },
         { nombre: "Pollitos",       codigo: "H-006", archivo: "Pollitos 01.jpeg" },
         { nombre: "Mickey Mouse",   codigo: "H-007", archivo: "Mickey 02.jpeg" },
-        { nombre: "Dragon Ball",           codigo: "H-008", archivo: "Goku 01.jpeg" },
+        { nombre: "Dragon Ball",    codigo: "H-008", archivo: "Goku 01.jpeg" },
         { nombre: "Mickey Mouse",   codigo: "H-009", archivo: "Mickey 04.jpeg" },
         { nombre: "Mario Bros",     codigo: "H-010", archivo: "Mario 02.jpeg" },
         { nombre: "Blaze",          codigo: "H-011", archivo: "Blaze 01.jpeg" },
@@ -61,16 +61,16 @@ const telasPorCategoria = {
     ],
 
     navidad: [
-        { nombre: "Santa Claus",          codigo: "N-001", archivo: "Colacho-01.jpeg" },
-        { nombre: "Santa Claus",          codigo: "N-002", archivo: "Colacho-02.jpeg" },
-        { nombre: "Cuadros",          codigo: "N-003", archivo: "Cuadros-01.jpeg" },
-        { nombre: "Grinch",           codigo: "N-004", archivo: "Grinch-01.jpeg" },
-        { nombre: "HoHoHo",         codigo: "N-005", archivo: "HoHo-01.jpeg" },
-        { nombre: "Mickey Mouse",   codigo: "N-006", archivo: "Mickey Navidad-01.jpeg" },
-        { nombre: "Muñeco de Nieve",  codigo: "N-007", archivo: "Muñeco de Nieve-01.jpeg" },
-        { nombre: "Paw Patrol", codigo: "N-008", archivo: "Paw Patrol-02.jpeg" },
-        { nombre: "Renos",            codigo: "N-009", archivo: "Renos-01.jpeg" },
-        { nombre: "Stitch",   codigo: "N-010", archivo: "Stitch-01.jpeg" }
+        { nombre: "Santa Claus",     codigo: "N-001", archivo: "Colacho-01.jpeg" },
+        { nombre: "Santa Claus",     codigo: "N-002", archivo: "Colacho-02.jpeg" },
+        { nombre: "Cuadros",         codigo: "N-003", archivo: "Cuadros-01.jpeg" },
+        { nombre: "Grinch",          codigo: "N-004", archivo: "Grinch-01.jpeg" },
+        { nombre: "HoHoHo",          codigo: "N-005", archivo: "HoHo-01.jpeg" },
+        { nombre: "Mickey Mouse",    codigo: "N-006", archivo: "Mickey Navidad-01.jpeg" },
+        { nombre: "Muñeco de Nieve", codigo: "N-007", archivo: "Muñeco de Nieve-01.jpeg" },
+        { nombre: "Paw Patrol",      codigo: "N-008", archivo: "Paw Patrol-02.jpeg" },
+        { nombre: "Renos",           codigo: "N-009", archivo: "Renos-01.jpeg" },
+        { nombre: "Stitch",          codigo: "N-010", archivo: "Stitch-01.jpeg" }
     ]
 };
 
@@ -168,7 +168,7 @@ function mostrarTelas() {
 
         tarjeta.innerHTML = `
             <div class="foto">
-                <img src="${tela.imagen}" alt="${tela.nombre}" loading="lazy">
+                <img alt="${tela.nombre}" loading="lazy" decoding="async">
             </div>
             <div class="informacion">
                 <h3>${tela.nombre}</h3>
@@ -176,13 +176,31 @@ function mostrarTelas() {
             </div>
         `;
 
+        const img = tarjeta.querySelector("img");
+        const ruta = encodeURI(tela.imagen);   // maneja espacios y la ñ
+        let intentos = 0;
+
+        // Si falla la carga, reintenta hasta 3 veces con una pequeña pausa
+        img.addEventListener("error", () => {
+            if (intentos < 3) {
+                intentos++;
+                setTimeout(() => {
+                    img.src = ruta + "?r=" + intentos;
+                }, 500 * intentos);
+            }
+        });
+
+        img.addEventListener("load", () => img.classList.add("cargada"));
+
+        img.src = ruta;
+
         tarjeta.addEventListener("click", () => abrirVisor(tela));
         catalogo.appendChild(tarjeta);
     });
 }
 
 function abrirVisor(tela) {
-    visorImg.src = tela.imagen;
+    visorImg.src = encodeURI(tela.imagen);
     visorImg.alt = tela.nombre;
     visorNombre.textContent = tela.nombre;
     visorCodigo.textContent = tela.codigo;
