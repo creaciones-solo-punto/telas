@@ -14,7 +14,6 @@ const telasPorCategoria = {
         { nombre: "Peppa Pig",        codigo: "M-025", archivo: "Peppa-01.jpeg" },
         { nombre: "Flores",           codigo: "M-026", archivo: "Flores-05.jpeg" },
         { nombre: "Kuromi",           codigo: "M-027", archivo: "Kuromi-01.jpeg" },
-        { nombre: "Minnie Mouse",     codigo: "M-028", archivo: "Minnie-06.jpeg" },
         { nombre: "Minnie Mouse",     codigo: "M-029", archivo: "Minnie-07.jpeg" },
         { nombre: "Blanca Nieves",    codigo: "M-030", archivo: "BlancaNieves.jpeg" },
         { nombre: "Gatos Kawaii",     codigo: "M-031", archivo: "GatosKawaii.jpeg" },
